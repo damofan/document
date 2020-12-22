@@ -13,3 +13,13 @@ git config --local --list
 
 ```
 
+- 添加tag
+
+```css
+git add *
+git commit -m "1.0.0"
+git tag 1.0.0
+git push
+git push origin 1.0.0
+```
+
